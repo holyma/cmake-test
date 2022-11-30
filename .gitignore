@@ -1,6 +1,6 @@
+build/
 .vscode/
 **/build/
-<<<<<<< HEAD
 **/.vscode/
 # libstdc++.so.6.0.26
 =======
