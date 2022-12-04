@@ -1,6 +1,6 @@
 # linux 软件安装
 ```sh
-apt install gcc g++ gun cmake make build-essential
+apt install gcc g++ gdb cmake make build-essential
 ```
 
 # vscode插件安装
@@ -29,3 +29,5 @@ export CC=/data/apps/gcc/7.3.0/bin/gcc
 export CXX=/data/apps/gcc/7.3.0/bin/g++
 
 ```
+# Reference:
+libtorch API:https://pytorch.org/cppdocs/api/library_root.html
