@@ -1,6 +1,11 @@
 # linux 软件安装
 ```sh
-apt install gcc g++ gdb cmake make build-essential
+# essential
+apt update
+apt updrade
+apt install -y cmake make gdb g++ gcc build-essential
+# optional
+apt install -y git tmux zip
 ```
 
 # vscode插件安装
